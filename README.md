@@ -22,11 +22,9 @@ Hello, I am a final-year student at Motilal Nehru National Institute of Technolo
 <hr>
 
 <p align="center" style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 18px;">
-  <i>In the world, no one is perfect.</i>
+  <i>Success is not the key to happiness. Happiness is the key to success.</i>
   <br/>
-  <i>Even if you keep pursuing perfection, you'll never reach it.</i>
-  <br/>
-  <i>But along the way, you'll become something great.</i>
+  <i> If you love what you are doing, you will be successful.</i>
 </p>
 
 <p align="center">
